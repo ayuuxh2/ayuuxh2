@@ -1,34 +1,52 @@
-# ayuuxh / flexhunt
+# 👋 Hey, I'm Ayush — aka F L E X H U N T
 
-I build AI-first apps, automation tools, and creator products.
+Building **AI-first products, automation tools & mobile apps** that people actually use.
 
-Currently working on:
-- [InstaAuto](https://github.com/flexhunt/insta-p8) — open-source ManyChat alternative for Instagram DM, comment, story automation and AI replies.
-- [MyHabits](https://ayush.myhabits.in) — habit tracking and social accountability app.
-- AI agents, automation dashboards, and social media tooling.
+---
 
-## Featured Project
+## 🔥 What I'm Building
 
-### InstaAuto
-Open-source Instagram automation platform built with Next.js, Supabase, and Instagram Graph API.
+### 🎵 Trider Music
+YouTube Music player — cross-platform, ad-free, built with Kotlin Multiplatform.
+> `trider.music` — fork of SimpMusic, rebranded & maintained
 
-Features:
-- Instagram DM automation
-- Comment-to-DM automation
-- Story automation
-- AI auto-replies
-- Ice Breakers
-- Live inbox
-- Reels scheduling
+### 📱 InstaAuto
+Open-source ManyChat alternative for Instagram — DM, comment & story automation.
+> Next.js + Supabase + Instagram Graph API
 
-Repo: https://github.com/flexhunt/insta-p8
+### ✅ MyHabits (Trider)
+Habit tracking app with gamification, social accountability & Instagram bot integration.
+> Flutter + Next.js + Turso + Instagram API
 
-## Tech Stack
+### 🎮 Rogue Signal
+2D arcade shooter — Canvas + Capacitor Android with gesture shortcuts & daily contracts.
 
-Next.js · React · TypeScript · Supabase · Flutter · Dart · AI Agents · Instagram API · Vercel
+---
 
-## Links
+## 🛠️ Tech Stack
 
-- Website: https://ayush.myhabits.in
-- GitHub: https://github.com/flexhunt
-- Instagram Demo: https://www.instagram.com/ayuuxh2/
+```
+Languages:      Kotlin, Dart, TypeScript, Python, JavaScript
+Frontend:       Next.js, React, Flutter, Compose Multiplatform
+Backend:        Node.js, Supabase, Turso, Firebase
+Mobile:         Android (Kotlin/Compose), Flutter, Capacitor
+Infra:          Vercel, Linux, Cloudflare
+AI/Agents:      Hermes Agent, Claude Code, FreeModel API
+Other:          Instagram Graph API, Telethon, Baileys (WhatsApp)
+```
+
+---
+
+## 📊 GitHub
+
+```
+📌 ayuuxh2 · 30+ repos · building in public
+```
+
+---
+
+## 📬 Connect
+
+- **Instagram:** [@trider.bot](https://instagram.com/trider.bot) — automations live
+- **Web:** [myhabits.in](https://myhabits.in) — Trider habit app
+- **Telegram:** [Trider Updates](https://t.me/trider)
