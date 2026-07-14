@@ -54,7 +54,7 @@ const ayuuxh = {
 
 <div align="center">
 <a href="https://github.com/ayuuxh2/insta-p8">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayuuxh2&repo=insta-p8&hide_border=true&bg_color=00000000&title_color=a78bfa&icon_color=818cf8&text_color=9ca3af&border_radius=12" alt="insta-p8"/>
+  <img src="https://github-readme-stats-self-theta-46.vercel.app/api/pin/?username=ayuuxh2&repo=insta-p8&hide_border=true&bg_color=00000000&title_color=a78bfa&icon_color=818cf8&text_color=9ca3af&border_radius=12" alt="insta-p8"/>
 </a>
 </div>
 
@@ -89,12 +89,12 @@ const ayuuxh = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ayuuxh2&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=a78bfa&icon_color=818cf8&text_color=9ca3af&rank_icon=percentile" alt="stats"/>
+<img height="165" src="https://github-readme-stats-self-theta-46.vercel.app/api?username=ayuuxh2&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=a78bfa&icon_color=818cf8&text_color=9ca3af&rank_icon=percentile" alt="stats"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ayuuxh2&hide_border=true&background=00000000&stroke=a78bfa&ring=a78bfa&fire=818cf8&currStreakLabel=a78bfa&sideLabels=9ca3af&currStreakNum=c9d1d9&dates=6b7280&sideNums=c9d1d9" alt="streak"/>
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayuuxh2&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=a78bfa&text_color=9ca3af" alt="top langs"/>
+<img height="165" src="https://github-readme-stats-self-theta-46.vercel.app/api/top-langs/?username=ayuuxh2&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=a78bfa&text_color=9ca3af" alt="top langs"/>
 
 </div>
 
