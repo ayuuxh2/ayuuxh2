@@ -58,7 +58,7 @@ const ayuuxh = {
 </a>
 </div>
 
-> **insta-p8** — open-source Instagram Graph API wrapper. A self-hosted **ManyChat alternative** for automating Instagram DMs, comments & flows. `TypeScript` · `MIT` · ⭐ 41
+> **insta-p8** — open-source Instagram Graph API wrapper. A self-hosted **ManyChat alternative** for automating Instagram DMs, comments & flows. `TypeScript` · `MIT` · ⭐ 
 
 <br/>
 
